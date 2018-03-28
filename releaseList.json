@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0",
+    "Name": "project-name",
+    "DevelopmentStatus": "Stable",
+    "Description": "Description of current release",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2000-01-01T00:00:00.00-00:00",
+    "Files": [
+      {
+        "Id": "0745fb88-ae84-4b58-9c39-435aaf0f789d",
+        "FileName": "OriginalApplicationFileName",
+        "Url": "./0/0745fb88-ae84-4b58-9c39-435aaf0f789d",
+        "Type": "Application",
+        "UploadDate": "2000-01-01T00:00:00.00-00:00"
+      }
+    ]
+  }
+]
